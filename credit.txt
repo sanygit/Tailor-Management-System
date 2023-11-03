@@ -1,0 +1,13 @@
+Tailor / Fashion Designer Management System is developed by Agbonaye Osaru (SARU TECH)
+
+Special Credit goes to the following Authors whose plugins were used in this project
+
+Chart.js
+Chart.js is available under the MIT license.
+Evert Timberg and Co.
+
+
+Ajax Full Featured Calendar
+Paulo Alexandre
+
+Also fontawesome, jquery and bootstrap
